@@ -1,0 +1,1 @@
+The **Medical Store Management System** is a C++ application for managing medicines, customers, and sales in a pharmacy. It allows adding, updating, and tracking medicines, monitoring stock and expiry dates, generating bills, and maintaining transaction history. By automating tasks, it improves efficiency, reduces errors, and ensures smooth medical store operations.
